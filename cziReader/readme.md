@@ -2,17 +2,19 @@
 
 ##   目录结构
 
-cziReader							// cziReader根目录
-	├── src							// python脚本存放目录
-	│   ├── input.txt				// 将你想要同时处理的czi文件列表放在这个txt里面
-	│   ├── splitChannels.py		// 用于读取czi文件并保存原始信息
-	│   ├── tonemapper.py			// 用于调色并保存文件
-	├── data						// 用于存放你的czi文件
-	│   ├── a.czi
-	├── tuned						// 用于存放生成的各个channels以及brightfield
-	├── readme.md 					// 本文件
+```
+cziReader                           // cziReader根目录
+    ├── src                         // python脚本存放目录
+    │   ├── input.txt               // 将你想要同时处理的czi文件列表放在这个txt里面
+    │   ├── splitChannels.py        // 用于读取czi文件并保存原始信息
+    │   ├── tonemapper.py           // 用于调色并保存文件
+    ├── data                        // 用于存放你的czi文件
+    │   ├── a.czi
+    ├── tuned                       // 用于存放生成的各个channels以及brightfield
+    ├── readme.md                   // 本文件
+```
 
-##	使用说明
+##  使用说明
 
 1. 将你的czi文件放入data目录下
 2. 打开src文件夹，将你一次性想要调整的几个czi文件明写入txt，以回车隔开，建议少于7个文件
