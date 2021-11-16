@@ -1,6 +1,0 @@
-group1_MMP2(red)+CDX2(green)_em4_0h_2_40x_1.czi
-group1_MMP2(red)+CDX2(green)_em4_120h_2_40x_1.czi
-group1_MMP2(red)+CDX2(green)_em4_24h_2_40x_1.czi
-group1_MMP2(red)+CDX2(green)_em4_48h_1_40x_3.czi
-group1_MMP2(red)+CDX2(green)_em4_72h_1_40x_1.czi
-group1_MMP2(red)+CDX2(green)_em4_96h_1_40x_1.czi
