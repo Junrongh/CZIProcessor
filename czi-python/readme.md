@@ -3,7 +3,7 @@
 ##   目录结构
 
 ```
-cziReader                           // cziReader根目录
+czi-python                          // cziReader根目录
     ├── src                         // python脚本存放目录
     │   ├── input.txt               // 将你想要同时处理的czi文件列表放在这个txt里面
     │   ├── splitChannels.py        // 用于读取czi文件并保存原始信息

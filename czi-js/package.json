@@ -1,0 +1,24 @@
+{
+  "name": "czi-js",
+  "version": "1.0.0",
+  "description": "czi-js",
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "webpack --mode production && mv dist/*.html ./",
+    "dev": "webpack-dev-server --mode development --inline --progress --config webpack.config.js"
+  },
+  "author": "heika",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "5.2.1",
+    "gl-matrix": "^3.3.0",
+    "shader-loader": "^1.3.1",
+    "typescript": "3.5.3",
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.1.0",
+    "webpack-dev-server": "3.5.1"
+  }
+}

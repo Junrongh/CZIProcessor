@@ -1,7 +1,6 @@
 import numpy as np
 import czifile
 import cv2
-import sys
 import os
 
 def splitChannels(img, name):
