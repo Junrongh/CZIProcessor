@@ -1,7 +1,6 @@
-Group 4. syncytin(red)+ZO-1(green)_EM3_0h_40x.czi
-Group 4. syncytin(red)+ZO-1(green)_EM3_120h_40x.czi
-Group 4. syncytin(red)+ZO-1(green)_EM3_24h_40x_1.czi
-Group 4. syncytin(red)+ZO-1(green)_EM3_48h_40x.czi
-Group 4. syncytin(red)+ZO-1(green)_EM3_96h_40x.czi
-Group 4. syncytin(red)+ZO-1(green)_EM4_0h_40x.czi
-Group 4. syncytin(red)+ZO-1(green)_EM4_24h_40x.czi
+group1_MMP2(red)+CDX2(green)_em4_0h_2_40x_1.czi
+group1_MMP2(red)+CDX2(green)_em4_120h_2_40x_1.czi
+group1_MMP2(red)+CDX2(green)_em4_24h_2_40x_1.czi
+group1_MMP2(red)+CDX2(green)_em4_48h_1_40x_3.czi
+group1_MMP2(red)+CDX2(green)_em4_72h_1_40x_1.czi
+group1_MMP2(red)+CDX2(green)_em4_96h_1_40x_1.czi

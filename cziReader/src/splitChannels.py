@@ -22,7 +22,7 @@ def splitChannels(img, name):
         channel = img[0, k, 0, 0, :, :, 0]
         channel = cv2.convertScaleAbs(channel, alpha=(255.0/4095.0))
 
-        if np.min(channel > 20.0):
+        if np.min(channel > 5.0):
             dic['bright'] = channel.astype('uint8')
         else:
             dic[channels_info[str(k)]] = channel.astype('uint8')
